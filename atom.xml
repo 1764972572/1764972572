@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://1764972572:icanwin520@1764972572.github.io/1764972572.github.io.git/atom.xml" rel="self"/>
+  <link href="atom.xml" rel="self"/>
   
-  <link href="https://1764972572:icanwin520@1764972572.github.io/1764972572.github.io.git/"/>
+  <link href="https://1764972572:icanwin520@105.51.88.28/1764972572.github.io.git/"/>
   <updated>2021-08-02T07:22:26.007Z</updated>
-  <id>https://1764972572:icanwin520@1764972572.github.io/1764972572.github.io.git/</id>
+  <id>https://1764972572:icanwin520@105.51.88.28/1764972572.github.io.git/</id>
   
   <author>
     <name>dxj</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://1764972572:icanwin520@1764972572.github.io/1764972572.github.io.git/2021/07/30/hello-world/"/>
-    <id>https://1764972572:icanwin520@1764972572.github.io/1764972572.github.io.git/2021/07/30/hello-world/</id>
+    <link href="2021/07/30/hello-world/"/>
+    <id>2021/07/30/hello-world/</id>
     <published>2021-07-30T01:04:05.450Z</published>
     <updated>2021-08-02T07:22:26.007Z</updated>
     
