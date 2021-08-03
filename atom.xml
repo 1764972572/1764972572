@@ -6,7 +6,7 @@
   <link href="atom.xml" rel="self"/>
   
   <link href="https://1764972572:icanwin520@105.51.88.28/1764972572.github.io.git/"/>
-  <updated>2021-08-02T07:22:26.007Z</updated>
+  <updated>2021-08-03T09:10:11.836Z</updated>
   <id>https://1764972572:icanwin520@105.51.88.28/1764972572.github.io.git/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test blog</title>
+    <link href="2021/08/02/test/"/>
+    <id>2021/08/02/test/</id>
+    <published>2021-08-02T11:55:29.000Z</published>
+    <updated>2021-08-03T09:10:11.836Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是我的第一篇测试文章"><a href="#这是我的第一篇测试文章" class="headerlink" title="这是我的第一篇测试文章"></a><strong><center>这是我的第一篇测试文章</center></strong></h1><span id="more"></span><h2 id="今日所学"><a href="#今日所学" class="headerlink" title="今日所学"></a>今日所学</h2><h3 id="1-Markdown语言"><a href="#1-Markdown语言" class="headerlink" title="1. Markdown语言"></a>1. Markdown语言</h3><ol><li><p>斜体  </p><blockquote><p>方式一：<code>*斜体*</code><br><em>斜体</em><br>方式二：<code>_斜体_</code><br><em>斜体</em>  </p></blockquote></li><li><p>加粗  </p><blockquote><p><code>**加粗**</code><br><strong>加粗</strong>  </p></blockquote></li><li><p>斜体以及加粗  </p><blockquote><p>方式一：<code>_**斜体及加粗**_</code><br>_<strong>斜体及加粗</strong>_<br>方式二：<code>***斜体及加粗***</code><br><em><strong>斜体及加粗</strong></em>  </p></blockquote></li></ol><h3 id="2-新建以及发布文章"><a href="#2-新建以及发布文章" class="headerlink" title="2. 新建以及发布文章"></a>2. 新建以及发布文章</h3><ol><li>在自己建立的blog文件  <blockquote><p>$ hexo new [layout] <title></p></blockquote></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;这是我的第一篇测试文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇测试文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇测试文章&quot;&gt;&lt;/a&gt;&lt;strong&gt;&lt;center&gt;这是我的第一篇测试文章&lt;/center&gt;&lt;/strong&gt;&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="tags/测试/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
